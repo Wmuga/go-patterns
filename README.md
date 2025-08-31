@@ -19,7 +19,7 @@ A curated collection of idiomatic design & application patterns for Go language.
 | [Builder](/creational/builder/README.md) | Builds a complex object using simple objects | ✔ |
 | [Factory Method](/creational/factory/README.md) | Defers instantiation of an object to a specialized function for creating instances | ✔ |
 | [Object Pool](/creational/object-pool.md) | Instantiates and maintains a group of objects instances of the same type | ✘ |
-| [Singleton](/creational/singleton.md) | Restricts instantiation of a type to one object | ✘ |
+| [Singleton](/creational/singleton/README.md) | Restricts instantiation of a type to one object | ✔ |
 
 ## Structural Patterns
 
